@@ -11,3 +11,5 @@ My config uses
 - [vim-plugins](https://github.com/junegunn/vim-plug)
 - [vim-awesome](https://vimawesome.com/)
 - [Colors](https://github.com/Reewr/vim-monokai-phoenix/blob/master/colors/monokai-phoenix.vim)
+
+![leafy](./Images/Leafy.jpg)
